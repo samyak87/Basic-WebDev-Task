@@ -1,0 +1,11 @@
+#imgg{
+      width: 95%;
+      justify-content: center;
+      border: solid 4px black;
+      margin: 3%;
+      
+}
+
+h3,h5{
+    text-align: center;
+}
